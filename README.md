@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋, I'm Shaheryar
 
-<!--
-**Shaheryar007308/Shaheryar007308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Android Enthusiast**
 
-Here are some ideas to get you started:
+I love turning ideas into real apps using code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- Passionate about building beautiful and useful applications
+- Learning Android development using Kotlin Jetpack Compose
+- Believe in learning by doing real projects
+
+### Currently Learning
+- Jetpack Compose
+
+### Languages & Tools
+- **Jetpack Compose**, **Html , CSS**, **Kotlin**
+- OpenAI SDK & AI tools
+
+---
+
+Thanks for visiting my profile! Feel free to explore my projects ⭐
+
+### Connect with Me
+- 📧 Email: shaheryar001234@gmail.com
+- 📧 Educational Email: fa23-bscs-308@lgu.edu.pk
+- 💼 LinkedIn: www.linkedin.com/in/shaheryar-mukhtar-4430b4373
